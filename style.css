@@ -136,3 +136,10 @@ body{
     margin-right: 5%;
     
 }
+.lang{
+    max-width: 75px;
+    max-height: 5px;
+    position: relative;
+    top: -280px;
+    right: -250px;
+}
